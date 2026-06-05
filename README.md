@@ -178,4 +178,5 @@ Python の interface.py
 チャット画面
 ```
 
-つまり，GitHub 上のリポジトリをもとに Codespaces を作り，その中で Docker による開発環境を使い，さらにその中でローカルLLMである Bonsai を動かしています。
+つまり，GitHub 上のリポジトリをもとに Codespaces を作り，その中で Docker による開発環境を使い，さらにその中でローカルLLMである Bonsai を動かしています
+性質の違う2つの変更を、別々のコミットに分けて記録する
